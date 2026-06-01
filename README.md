@@ -51,9 +51,13 @@ Meça o tempo de execução para cada combinação de algoritmo e distribuição
 | Tamanho (n) | Insertion Sort (Crescente) | Insertion Sort (Decrescente) | Selection Sort (Crescente) | Selection Sort (Decrescente) |
 | ----------: | :------------------------: | :--------------------------: | :------------------------: | :--------------------------: |
 |          10 |                            |                              |                            |                              |
+|          50 |                            |                              |                            |                              |
 |         100 |                            |                              |                            |                              |
+|         500 |                            |                              |                            |                              |
 |        1000 |                            |                              |                            |                              |
+|        5000 |                            |                              |                            |                              |
 |       10000 |                            |                              |                            |                              |
+|       15000 |                            |                              |                            |                              |
 
 **Perguntas:**
 1. Qual algoritmo foi mais rápido no vetor já ordenado? Por quê?
